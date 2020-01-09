@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31546973-c3fe-49fb-b3e2-8fc65992fcb4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W9ithkk35kvkGMcCEjk24JRLSO" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/lab2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="lab1.model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lab4" />
+      <recent name="lab4.model" />
+      <recent name="lab3.model" />
+      <recent name="lab2.model" />
+      <recent name="lab2.exceptions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TOP\IdeaProjects\Cinema\src\main\java\lab2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.Variant23Test">
+    <configuration name="FIlmServiceTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Cinema" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab3" />
+      <option name="MAIN_CLASS_NAME" value="lab3.FIlmServiceTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScheduleBuilderTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Cinema" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab4" />
+      <option name="MAIN_CLASS_NAME" value="lab4.ScheduleBuilderTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScheduleBuilderTest.builderErrorTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Cinema" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab4" />
+      <option name="MAIN_CLASS_NAME" value="lab4.ScheduleBuilderTest" />
+      <option name="METHOD_NAME" value="builderErrorTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScheduleBuilderTest.timeScheduleErrorTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Cinema" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab4" />
+      <option name="MAIN_CLASS_NAME" value="lab4.ScheduleBuilderTest" />
+      <option name="METHOD_NAME" value="timeScheduleErrorTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variant23Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Cinema" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab0" />
+      <option name="MAIN_CLASS_NAME" value="lab0.Variant23Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Variant23Test" />
+        <item itemvalue="TestNG.ScheduleBuilderTest (1)" />
+        <item itemvalue="TestNG.ScheduleBuilderTest.timeScheduleErrorTest" />
+        <item itemvalue="TestNG.ScheduleBuilderTest.builderErrorTest" />
+        <item itemvalue="TestNG.FIlmServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31546973-c3fe-49fb-b3e2-8fc65992fcb4" name="Default Changelist" comment="" />
+      <created>1578568427716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578568427716</updated>
+      <workItem from="1578568444325" duration="1284000" />
+      <workItem from="1578570117468" duration="1716000" />
+      <workItem from="1578583464837" duration="1209000" />
+      <workItem from="1578584720117" duration="20280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

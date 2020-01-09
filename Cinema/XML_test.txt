@@ -1,0 +1,1 @@
+<Film><title>Інтерстелар</title><country>США</country><genre>DRAMA</genre><year>2017</year><duration>210</duration></Film>
